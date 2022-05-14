@@ -1,3 +1,4 @@
+// New update for comments Hello.
 // this program to change color when pressing button.
 let button;
 function setup() {
