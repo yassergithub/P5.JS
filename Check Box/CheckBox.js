@@ -1,6 +1,7 @@
 // Create a variable for checkbox object
 var checkbox;
 
+// Hello
 // Create a function to change the background-color
 function change_bg() {
 	// Set dark color if box is checked
